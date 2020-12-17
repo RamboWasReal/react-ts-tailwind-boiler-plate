@@ -1,13 +1,12 @@
-# Getting Started with Create React App
-
-## Tailwind CSS
-
-You can read more about tailwind css here: [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
+# Getting Started with React App / TS
 
 ## TypeScript
 
 TypeScript doc [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 
+## Tailwind CSS
+
+You can read more about tailwind css here: [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
 
 ## Available Scripts
 
